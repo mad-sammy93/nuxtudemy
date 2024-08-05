@@ -8,7 +8,7 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 
 ## Course
 
-[Link to udemy course] (https://www.udemy.com/course/the-nuxt-3-bootcamp-the-complete-developer-guide/learn/lecture/34920821#overview)
+[Link to udemy course](https://www.udemy.com/course/the-nuxt-3-bootcamp-the-complete-developer-guide/learn/lecture/34920821#overview)
  
 
 ## Setup
