@@ -1,0 +1,76 @@
+<template>
+    <!-- CAR CARD -->
+    <div class="shadow border w-full overflow-hidden mb-5 cursor-pointer h-[200px]">
+      <div class="flex h-full">
+        <img src="https://w.wallhaven.cc/full/4d/wallhaven-4dpz63.jpg" alt="camaro" class="w-[300px] h-full 
+object-cover">
+        <div class="p-4 flex flex-col">
+          <h1 class="text-2xl text-blue-700">Camaro</h1>
+          <p class="text-gray-700">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tristique accumsan
+            ante, sed tempus nisi volutpat in. Fusce sed sem et arcu condimentum pellentesque ac ac felis.</p>
+          <h1 class="mt-auto text-xl">$39,000</h1>
+        </div>
+      </div>
+    </div>
+    <!-- <div class="shadow border w-full overflow-hidden mb-5 cursor-pointer h-[200px]">
+      <div class="flex h-full">
+        <img src="https://w.wallhaven.cc/full/ne/wallhaven-nevrxw.jpg" alt="venom" class="w-[300px] h-full 
+object-cover">
+        <div class="p-4 flex flex-col">
+          <h1 class="text-2xl text-blue-700">Venom</h1>
+          <p class="text-gray-700">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tristique accumsan
+            ante, sed tempus nisi volutpat in. Fusce sed sem et arcu condimentum pellentesque ac ac felis.</p>
+          <h1 class="mt-auto text-xl">$320,000</h1>
+        </div>
+      </div>
+    </div>
+    <div class="shadow border w-full overflow-hidden mb-5 cursor-pointer h-[200px]">
+      <div class="flex h-full">
+        <img src="https://w.wallhaven.cc/full/47/wallhaven-47kqro.jpg" alt="Corvette Racecar" class="w-[300px] h-full 
+object-cover">
+        <div class="p-4 flex flex-col">
+          <h1 class="text-2xl text-blue-700">Corvette 614 racecar</h1>
+          <p class="text-gray-700">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tristique accumsan
+            ante, sed tempus nisi volutpat in. Fusce sed sem et arcu condimentum pellentesque ac ac felis.</p>
+          <h1 class="mt-auto text-xl">$157,000</h1>
+        </div>
+      </div>
+    </div>
+    <div class="shadow border w-full overflow-hidden mb-5 cursor-pointer h-[200px]">
+      <div class="flex h-full">
+        <img src="https://w.wallhaven.cc/full/49/wallhaven-49myo8.jpg" alt="Toyota Supra" class="w-[300px] h-full 
+object-cover">
+        <div class="p-4 flex flex-col">
+          <h1 class="text-2xl text-blue-700">Toyota Supra RZ</h1>
+          <p class="text-gray-700">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tristique accumsan
+            ante, sed tempus nisi volutpat in. Fusce sed sem et arcu condimentum pellentesque ac ac felis.</p>
+          <h1 class="mt-auto text-xl">$25,000</h1>
+        </div>
+      </div>
+    </div>
+    <div class="shadow border w-full overflow-hidden mb-5 cursor-pointer h-[200px]">
+      <div class="flex h-full">
+        <img src="https://w.wallhaven.cc/full/xl/wallhaven-xlg73z.jpg" alt="ferrari gto 250" class="w-[300px] h-full 
+object-cover">
+        <div class="p-4 flex flex-col">
+          <h1 class="text-2xl text-blue-700">Ferrari 250 GTO</h1>
+          <p class="text-gray-700">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tristique accumsan
+            ante, sed tempus nisi volutpat in. Fusce sed sem et arcu condimentum pellentesque ac ac felis.</p>
+          <h1 class="mt-auto text-xl">$250,000,000</h1>
+        </div>
+      </div>
+    </div>
+    <div class="shadow border w-full overflow-hidden mb-5 cursor-pointer h-[200px]">
+      <div class="flex h-full">
+        <img src="https://w.wallhaven.cc/full/r2/wallhaven-r2zvl7.jpg" alt="ferrari gto 250" class="w-[300px] h-full 
+object-cover">
+        <div class="p-4 flex flex-col">
+          <h1 class="text-2xl text-blue-700">Czinger 21C</h1>
+          <p class="text-gray-700">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tristique accumsan
+            ante, sed tempus nisi volutpat in. Fusce sed sem et arcu condimentum pellentesque ac ac felis.</p>
+          <h1 class="mt-auto text-xl">$250,000,000</h1>
+        </div>
+      </div>
+    </div> -->
+    <!-- CAR CARD -->
+</template>
