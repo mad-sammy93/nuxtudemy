@@ -1,7 +1,9 @@
 <script setup>
 const error = useError()
 const handleError = () => {
-  navigateTo('/')
+  clearError({
+    redirect: '/'
+  })
 }
 </script><template>
   <div class="flex h-screen justify-center items-center flex-col">

@@ -1,3 +1,9 @@
+<script setup>
+
+const props = defineProps({
+  car: Object
+})
+</script>
 <template>
   <div
     class="relative h-screen w-100 bg-no-repeat bg-cover bg-bottom bg-[url('https://w.wallhaven.cc/full/4d/wallhaven-4dpz63.jpg')]">
