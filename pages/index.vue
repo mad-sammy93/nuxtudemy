@@ -2,6 +2,10 @@
 useHead({
   title: 'Cartrader'
 })
+
+definePageMeta({
+  layout: 'noHeader'
+})
 </script>
 <template>
   <div>
