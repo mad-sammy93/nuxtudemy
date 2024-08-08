@@ -9,19 +9,14 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 ## Setup
 
 **INSTALL PACKEAGES**
-```docker compose run --rm frontend yarn install```
-
+```docker compose run --rm cartrader yarn install```
 
 **RUN BUILD**
-```
-docker compose build
-```
+```docker compose build```
 
 ## Development Server
 
 **RUN DEV**
-```
-docker compose up
-```
+``` docker compose up ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
