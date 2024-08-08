@@ -4,7 +4,7 @@ useHead({
 })
 
 definePageMeta({
-  layout: 'noHeader'
+  layout: 'noheader'
 })
 </script>
 <template>

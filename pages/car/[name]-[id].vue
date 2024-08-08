@@ -9,7 +9,7 @@ definePageMeta({
   layout: 'custom'
 })
 const car = computed(() => {
-  return cars.find(car => car.id === parseInt(route.params.id))
+  return cars.find((car) => car.id === parseInt(route.params.id))
 })
 
 if (!car.value) {
@@ -22,8 +22,8 @@ if (!car.value) {
 <template>
   <div v-if="car">
     <CarDetailHero :car="car" />
-    <CarDetailAttributes :features="car.features" />
-    <CarDetailDescription :description="car.description" />
+    <CarDetailAttributes :features="car?.features" />
+    <CarDetailDescription />
     <CarDetailContact />
   </div>
 </template>
