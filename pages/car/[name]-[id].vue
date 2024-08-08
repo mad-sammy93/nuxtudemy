@@ -23,7 +23,7 @@ if (!car.value) {
   <div v-if="car">
     <CarDetailHero :car="car" />
     <CarDetailAttributes :features="car?.features" />
-    <CarDetailDescription />
+    <CarDetailDescription :desc="car?.description" />
     <CarDetailContact />
   </div>
 </template>

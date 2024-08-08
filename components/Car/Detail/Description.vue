@@ -1,12 +1,12 @@
 <script setup>
 const props = defineProps({
-  description: String,
+  desc: Array,
 })
 </script>
 <template>
   <div class="mt-5">
     <p class="mb-10">
-      test
+      {{ desc }}
     </p>
   </div>
 </template>
