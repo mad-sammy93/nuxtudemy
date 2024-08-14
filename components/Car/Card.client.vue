@@ -1,15 +1,11 @@
 <script setup>
 import heartFilled from '@/assets/icons/heartFilled.png'
 import heartOutline from '@/assets/icons/heartOutline.png'
+
 const props = defineProps({
   car: Object,
   favourite: Boolean
 })
-
-//removed and moved to parent
-// const favourite = useState(`favourite-${props.car?.id}`, () => {
-//   return false
-// })
 
 const emit = defineEmits(['favor'])
 </script>
