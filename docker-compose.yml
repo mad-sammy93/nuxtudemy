@@ -2,13 +2,11 @@
 
 services:
   cartrader:
+    container_name: cartrader
     # image: nuxtudemy
     build: 
       context: .
-      dockerfile: Dockerfile
-    container_name: nuxtudemy
     ports:
       - '8637:8637'
     volumes:
       - .:/app
-      - /app/node_modules

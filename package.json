@@ -9,11 +9,14 @@
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
+  "devDependencies": {
+    "nuxt": "^3.12.4",
+    "@nuxtjs/supabase": "^0.3.0"
+  },
   "dependencies": {
     "@nuxt/image": "^1.7.0",
     "@nuxtjs/tailwindcss": "^6.12.1",
     "@vueuse/nuxt": "^9.6.0",
-    "nuxt": "^3.12.4",
     "vue": "latest"
   }
 }
