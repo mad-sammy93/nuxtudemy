@@ -9,6 +9,9 @@ export default defineNuxtConfig({
     "@nuxtjs/supabase"
   ],
   devServer: {
-    port: 8637
-  }
+    port: 2221
+  },
+  // supabase: {
+  //   redirect: false,
+  // }
 })
