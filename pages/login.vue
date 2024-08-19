@@ -7,7 +7,7 @@ const supabase = useSupabaseClient()
 
 const login = async () => {
   const { data,error } = await supabase.auth.signInWithOAuth({
-    provider: 'google',
+    provider: 'github',
     options: {
       redirectTo: 'http://localhost:2221/confirm',
     }
