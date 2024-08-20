@@ -1,5 +1,8 @@
 <script setup>
-const { cars } = useCars()
+// const { cars } = useCars() // changed to fetch from server
+const props= defineProps({
+  cars: Array
+})
 
 const favourite = useLocalStorage('favourite', {})
 const handleFavourite = (carId) => {

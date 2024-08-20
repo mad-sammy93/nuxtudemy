@@ -1,6 +1,6 @@
 <script setup>
 const props = defineProps({
-  desc: Array,
+  desc: String,
 })
 </script>
 <template>
