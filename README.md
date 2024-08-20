@@ -20,3 +20,11 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 ``` docker compose up ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+
+**PRISMA**
+### INITIALIZE PRISMA
+```docker compose run --rm cartrader npx prisma init```
+
+### DB PUSH
+```docker compose run --rm cartrader npx prisma db push```
