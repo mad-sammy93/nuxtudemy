@@ -24,6 +24,7 @@ model Car {
   description     String
   city            String
   model           String
+  year            String
   make            String
   listerId        String
   messages        Message[]
